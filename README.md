@@ -6,7 +6,7 @@ Front-End Engineer
 
 * 🌍  I'm based in Salvador-BA, Brazil
 * ✉️  You can contact me at [pedro.pauloy@outlook.com](mailto:pedro.pauloy@outlook.com)
-* 🚀  I'm currently working on [Wordopia (Multiplayer browser game)](http://https://wordopia.app)
+* 🚀  I'm currently working on [Wordopia (Multiplayer browser game)](https://wordopia.app)
 * 🧠  I'm learning WebSocket and Socket.IO
 * 🤝  I'm open to collaborating on any open source web project
 
